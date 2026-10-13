@@ -1,0 +1,2 @@
+dod_reklams.wad
+minecraft.wad
